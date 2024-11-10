@@ -1,0 +1,89 @@
+.main{
+
+}
+.header{
+	height: auto;
+	width: 100%;
+	/*background: lightgreen;*/
+	padding: ;
+}
+.header nav ul{
+	list-style-type: none;
+}
+.header nav ul li{
+	width: 100px;
+}
+
+.header nav ul li a:hovar{
+	color: red;
+	transition: 0.1s;
+}
+.txt-1{
+	height:auto;
+}
+#slideshow {
+  margin: 80px auto;
+  position: relative;
+  width: 100%;
+  height: 300px;
+
+
+}
+#slideshow img{
+  margin-top: -30px;		
+  height:; 
+}
+
+#slideshow > div {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  right: 10px;
+  bottom: 10px;
+}
+.lab-aria{
+	height: auto;
+	width: 100%;
+}
+.wlc{
+	height: 100px;
+	width: 100%;
+	background: #FD502E;	
+}
+.wlc h2{
+	line-height: 100px;
+}
+.teacher{
+	height: 500px;
+}
+footer{
+	height: auto;
+	background: #292929;
+	color: #fff;
+}
+footer hr{
+	background: white;
+}
+footer ul a{
+	color: #fff;
+	text-decoration: none;
+}
+footer ul a:hover{
+	color: red;
+}
+.footer-nav{
+	list-style-type: none;
+}
+.footer-nav li{
+	float: left;
+	line-height: 100px;
+	width: 100px;
+}
+.footer-nav ul a{
+	text-decoration: none;
+	font-size: 19px;
+}
+.footer-nav li a:hover{
+	color: red;
+	text-decoration: none;
+}
