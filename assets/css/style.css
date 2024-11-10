@@ -1,0 +1,57 @@
+img {
+  max-width: 100%; 
+}
+
+
+.form-01-main,html,body{
+  height: 100%;
+
+}
+.form-01-main {
+    padding: 40px 0px;
+    background: blue;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    text-align: center;
+}
+
+.form-cover {
+    position: absolute;
+    background: rgba(0,0,0,0.8);
+    bottom: 0;
+    top: 0;
+    width: 100%;
+    overflow: auto;
+}
+
+.form-sub-main{
+    max-width:500px;
+    margin:20px auto;
+    padding: 45px 60px 46px;
+
+}
+ @media screen and (max-width:767px){
+      .form-sub-main{
+        padding: 30px;
+      }
+  }
+
+.form-control {
+    min-height: 50px;
+    border: 1px solid yellow;
+    padding: 10px 15px;
+    background-color: transparent;
+    margin:30px 0px;
+}
+
+.form-sub-main{
+    color:white;
+}
+
+._main_head_as a img{
+  height:100px;
+  width:100px;
+  border-radius:50px;
+}
